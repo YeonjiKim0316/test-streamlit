@@ -1,0 +1,5 @@
+streamlit
+opencv-python
+keras
+numpy
+streamlit-drawable-canvas
