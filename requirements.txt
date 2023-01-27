@@ -3,3 +3,4 @@ opencv-python
 keras
 numpy
 streamlit-drawable-canvas
+libgl1-mesa-glx
